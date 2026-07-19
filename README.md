@@ -5,8 +5,8 @@
 ## 一把梭
 
 打开[肥羊订阅转换前端](https://suburl.v1.mk/)，填入必要信息（如图所示），用就完事了
-<a href="https://imgse.com/i/pSyBGUe"><img src="https://s1.ax1x.com/2023/02/04/pSyBGUe.png" alt="pSyBGUe.png" border="0" /></a>
-<a href="https://imgse.com/i/pPQcgkq"><img src="https://s1.ax1x.com/2023/08/16/pPQcgkq.png" alt="pPQcgkq.png" border="0" /></a>
+[![pEq5VwF.png](https://s21.ax1x.com/2025/05/06/pEq5VwF.png)](https://imgse.com/i/pEq5VwF)
+[![pEq59Wn.png](https://s21.ax1x.com/2025/05/06/pEq59Wn.png)](https://imgse.com/i/pEq59Wn)
 
 ***
 
@@ -213,3 +213,7 @@
 >   >   >   > 推荐开启
 >   >   >
 >   >   > * 待补充
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cutethotw/ClashRule&type=Date)](https://www.star-history.com/#cutethotw/ClashRule&Date)
